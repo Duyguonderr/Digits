@@ -1,7 +1,8 @@
 # Digits
 Integer digit operation program written in java.
+
 Least significant digit/digitZero: This method returns the least significant digit of an integer.
-ith digit/digiti: This method returns the ith digit of an integer.
+ith digit/digit i : This method returns the ith digit of an integer.
 Sum of the digits with limit/digitLimitSum: This method returns the sum of the digits that are higher than the specified limit in an integer.
 Count digits/digitCount: This method counts the number of digits that are equal to a given specific number in an integer.
 remove digitK/digitRemoveK: This method removes the kth digit in an integer.
